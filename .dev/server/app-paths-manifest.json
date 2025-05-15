@@ -1,0 +1,4 @@
+{
+  "/page": "app/page.js",
+  "/games/wordle/page": "app/games/wordle/page.js"
+}
