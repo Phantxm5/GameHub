@@ -12,26 +12,10 @@
       "static/chunks/a0b5f63a-5d663b83920d995e.js",
       "static/chunks/275-733e71857297f035.js",
       "static/chunks/main-app-d0d96f5b0c3fc738.js",
-      "static/css/5f7da40b9740fe8e.css",
+      "static/css/10eaad9d8c70bb81.css",
       "static/chunks/926-57563c64a857cec9.js",
-      "static/chunks/802-406ba6ef87ce4bce.js",
-      "static/chunks/app/layout-e5dfeac316495d63.js"
-    ],
-    "/page": [
-      "static/chunks/webpack-35bc564eb3128d87.js",
-      "static/chunks/a0b5f63a-5d663b83920d995e.js",
-      "static/chunks/275-733e71857297f035.js",
-      "static/chunks/main-app-d0d96f5b0c3fc738.js",
-      "static/chunks/926-57563c64a857cec9.js",
-      "static/chunks/802-406ba6ef87ce4bce.js",
-      "static/chunks/app/page-b22cd220d354481d.js"
-    ],
-    "/dashboard/page": [
-      "static/chunks/webpack-35bc564eb3128d87.js",
-      "static/chunks/a0b5f63a-5d663b83920d995e.js",
-      "static/chunks/275-733e71857297f035.js",
-      "static/chunks/main-app-d0d96f5b0c3fc738.js",
-      "static/chunks/app/dashboard/page-a50dad4c81daadcf.js"
+      "static/chunks/965-ed8a01ba091c5e74.js",
+      "static/chunks/app/layout-b7a0f64a8111ed69.js"
     ],
     "/games/wordle/page": [
       "static/chunks/webpack-35bc564eb3128d87.js",
@@ -40,6 +24,30 @@
       "static/chunks/main-app-d0d96f5b0c3fc738.js",
       "static/chunks/926-57563c64a857cec9.js",
       "static/chunks/app/games/wordle/page-836a398c22242893.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-35bc564eb3128d87.js",
+      "static/chunks/a0b5f63a-5d663b83920d995e.js",
+      "static/chunks/275-733e71857297f035.js",
+      "static/chunks/main-app-d0d96f5b0c3fc738.js",
+      "static/chunks/926-57563c64a857cec9.js",
+      "static/chunks/965-ed8a01ba091c5e74.js",
+      "static/chunks/app/page-d32c4dea1203621a.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-35bc564eb3128d87.js",
+      "static/chunks/a0b5f63a-5d663b83920d995e.js",
+      "static/chunks/275-733e71857297f035.js",
+      "static/chunks/main-app-d0d96f5b0c3fc738.js",
+      "static/chunks/app/dashboard/page-a50dad4c81daadcf.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-35bc564eb3128d87.js",
+      "static/chunks/a0b5f63a-5d663b83920d995e.js",
+      "static/chunks/275-733e71857297f035.js",
+      "static/chunks/main-app-d0d96f5b0c3fc738.js",
+      "static/chunks/965-ed8a01ba091c5e74.js",
+      "static/chunks/app/about/page-4e96f1ec609fb26d.js"
     ]
   }
 }

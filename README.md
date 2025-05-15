@@ -59,6 +59,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Framer Motion for animations
 - next-themes for dark/light mode
 
+## Deployment
+
+This project is configured for easy deployment on Vercel:
+
+1. Push your code to a GitHub repository
+2. Import the repository in Vercel
+3. Deploy with default settings
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).

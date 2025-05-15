@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion } from "framer-motion";
-import { Menu, X, Moon, Sun, Gamepad2 } from "lucide-react";
+import { Menu, X, Moon, Sun, Gamepad2, Info } from "lucide-react";
 import { useTheme } from "next-themes";
 
 export default function Header() {
@@ -26,6 +26,7 @@ export default function Header() {
   const navItems = [
     { name: "Home", path: "/" },
     { name: "German Wordle", path: "/games/wordle" },
+    { name: "About", path: "/about" }
   ];
 
   return (
