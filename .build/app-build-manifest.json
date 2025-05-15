@@ -17,13 +17,12 @@
       "static/chunks/965-ed8a01ba091c5e74.js",
       "static/chunks/app/layout-b7a0f64a8111ed69.js"
     ],
-    "/games/wordle/page": [
+    "/dashboard/page": [
       "static/chunks/webpack-35bc564eb3128d87.js",
       "static/chunks/a0b5f63a-5d663b83920d995e.js",
       "static/chunks/275-733e71857297f035.js",
       "static/chunks/main-app-d0d96f5b0c3fc738.js",
-      "static/chunks/926-57563c64a857cec9.js",
-      "static/chunks/app/games/wordle/page-836a398c22242893.js"
+      "static/chunks/app/dashboard/page-a50dad4c81daadcf.js"
     ],
     "/page": [
       "static/chunks/webpack-35bc564eb3128d87.js",
@@ -34,12 +33,13 @@
       "static/chunks/965-ed8a01ba091c5e74.js",
       "static/chunks/app/page-d32c4dea1203621a.js"
     ],
-    "/dashboard/page": [
+    "/games/wordle/page": [
       "static/chunks/webpack-35bc564eb3128d87.js",
       "static/chunks/a0b5f63a-5d663b83920d995e.js",
       "static/chunks/275-733e71857297f035.js",
       "static/chunks/main-app-d0d96f5b0c3fc738.js",
-      "static/chunks/app/dashboard/page-a50dad4c81daadcf.js"
+      "static/chunks/926-57563c64a857cec9.js",
+      "static/chunks/app/games/wordle/page-836a398c22242893.js"
     ],
     "/about/page": [
       "static/chunks/webpack-35bc564eb3128d87.js",
